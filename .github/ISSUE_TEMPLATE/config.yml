@@ -1,0 +1,14 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Documentation
+    url: https://www.mailtric.com/docs
+    about: Check out our comprehensive documentation and guides
+  - name: WordPress Support Forums
+    url: https://wordpress.org/support/plugin/mailtric/
+    about: Get community support and help from other users
+  - name: Official Website
+    url: https://www.mailtric.com
+    about: Visit our official website for more information
+  - name: Premium Support
+    url: https://www.mailtric.com/contact
+    about: Contact our support team for premium assistance
